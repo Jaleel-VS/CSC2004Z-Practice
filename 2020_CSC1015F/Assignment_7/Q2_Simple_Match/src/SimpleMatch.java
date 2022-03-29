@@ -22,6 +22,10 @@ public class SimpleMatch {
         }
     }
 
+    public boolean positionMatch(char a, char b) {
+
+    }
+
     public static void main(String[] args) {
     }
 }
